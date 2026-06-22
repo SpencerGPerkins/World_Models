@@ -1,6 +1,7 @@
 # Research into Robotic task Planning with World Models
 
 Directory Tree (depth 2)
+```text
 ├── checkpoints
 ├── datasets
 │   ├── reach_expert
@@ -48,6 +49,6 @@ Directory Tree (depth 2)
 └── utilities
     ├── cuda.py
     └── metaworld_test.py
-
+```
 
 *clone https://github.com/gaoyuezhou/dino_wm.git for initial experiments using DINO-WM*
