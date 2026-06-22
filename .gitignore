@@ -1,0 +1,7 @@
+# Directories
+checkpoints/*
+datasets/*
+
+# Files 
+*.bkp
+training_phase1.drawio
