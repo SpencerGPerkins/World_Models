@@ -1,6 +1,7 @@
 # Directories
 checkpoints/*
 datasets/*
+dino_wm/*
 
 # Files 
 *.bkp
